@@ -1,0 +1,16 @@
+/* 001*/
+body {
+    font: 400 30px Tahoma, sans-serif;
+    line-height: 1.8;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+/*001*/
+h1 {
+    background-color:#ff4d00; 
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 100px 25px;
+    text-align: center;     
+}
