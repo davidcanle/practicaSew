@@ -1,0 +1,12 @@
+/*001*/
+body{
+    position: static;
+}
+
+/*001*/
+nav{
+    position: fixed;
+    top: 0px;
+}
+
+
